@@ -43,6 +43,6 @@ From predictive modeling to natural language processing, my proficiency in Pytho
 - Ethical Hacking - OLFU QC, Fall 2019
 - A Insights on Web Development - OLFU QC,Fall 2019
 
-- [Facebook Links](https://www.facebook.com/7iswin/)
+  ![Facebook Links](https://www.facebook.com/7iswin/)
 
 
