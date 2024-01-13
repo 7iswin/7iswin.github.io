@@ -35,7 +35,7 @@ Embarking on a journey into the realms of Artificial Intelligence and Machine Le
 
 From predictive modeling to natural language processing, my proficiency in Python has been the driving force behind the development of robust, scalable, and intelligent solutions. Through meticulous coding and a data-driven approach, I've crafted algorithms that not only comprehend complex patterns but also deliver actionable insights.
 
-![Journey Study](/assets/img/book.png)
+![Journey Study](/assets/img/book.PNG)
 
 ## Talks & Lectures
 - Block Bytes:Blockchain 101 for Student - DICT PHILIPPINES, Fall 2023
