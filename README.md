@@ -2,11 +2,11 @@
 
 #### Technical Skills: Python, SQL, Javascripts, Django, HTML, CSS,Rest API,
 ## Personal Info 
--Date Of Birth: April,24,2000
--Age:23
--Email:john7elmo@gmail.com
--Facebook:[Facebook Links](https://www.facebook.com/7iswin/)
--Mobile Number:09369082001
+- Date Of Birth: April,24,2000
+- Age:23
+- Email:john7elmo@gmail.com
+- Facebook:[Facebook Links](https://www.facebook.com/7iswin/)
+- Mobile Number:09369082001
 ## Education
 - 4th Year  | B.S  IT| Our Lady Of Fatima University (_2023-2024_)								       		
 - Senior High  |	ICT  | Asian Institute of Science And Technology (_2016-2018_)	 			        		
