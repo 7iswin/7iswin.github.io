@@ -6,7 +6,7 @@
 - Date Of Birth: April,24,2000
 - Age: 23
 - Email: john7elmo@gmail.com
-- Facebook: [Facebook Links](https://www.facebook.com/7iswin/)
+- Facebook: [John Elms Gacutan](https://www.facebook.com/7iswin/)
 - Mobile Number: 09369082001
 
 ## Education
@@ -21,7 +21,7 @@
 
 ## Projects
 ### Clinic @ Our Lady of Fatima Quezon City 
-[Project Link](https://universityclinicqc.com/account/?next=/)
+[www.universityclinicqc.com](https://universityclinicqc.com/account/?next=/)
 
 We seek to enhance the accuracy and efficiency of clinical decision-making
 processes, forecasting the overall management of healthcare data and improving patient
