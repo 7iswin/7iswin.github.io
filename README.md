@@ -1,13 +1,18 @@
 # 7iswin.github.io
 
 #### Technical Skills: Python, SQL, Javascripts, Django, HTML, CSS,Rest API,
-
+## Personal Info 
+-Date Of Birth: April,24,2000
+-Age:23
+-Email:john7elmo@gmail.com
+-Facebook:[Facebook Links](https://www.facebook.com/7iswin/)
+-Mobile Number:09369082001
 ## Education
 - 4th Year  | B.S  IT| Our Lady Of Fatima University (_2023-2024_)								       		
 - Senior High  |	ICT  | Asian Institute of Science And Technology (_2016-2018_)	 			        		
 
 ## Work Experience
-**StaffwiseSolution INC- Sales Area Maintenance @ 7 Eleven(_2year Expirience_)**
+**StaffwiseSolution INC- Sales Area Maintenance @ 7 Eleven(_2year Experience_)**
 - It was my first job, and I know that working is exciting and memorable, therefore I enjoy working with my coworkers.
 - Improving my characteristics and promoting the best customer or client service
 
@@ -43,6 +48,6 @@ From predictive modeling to natural language processing, my proficiency in Pytho
 - Ethical Hacking - OLFU QC, Fall 2019
 - A Insights on Web Development - OLFU QC,Fall 2019
 
-[Facebook Links](https://www.facebook.com/7iswin/)
+
 
 
