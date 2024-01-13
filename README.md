@@ -27,7 +27,7 @@ targeted preventive measures, ultimately leading to improved student health outc
 reduced healthcare costs, and increased efficiency in healthcare delivery within the uni-
 versity campus.
 
-![EEG Band Discovery](/assets/img/neutral.jpeg)
+![EEG Band Discovery](/assets/img/neutral.jpg)
 
 ### Using The Artificial Intellegence(AI) and Machine Learning(ML)
 
