@@ -7,7 +7,7 @@
 - Age: 23
 - Email: john7elmo@gmail.com
 - Facebook: [John Elms Gacutan](https://www.facebook.com/7iswin/)
-- Mobile Number: 09369082001
+- Mobile Number: 09161730394
 
 ## Education
 - 4th Year  | B.S  IT| Our Lady Of Fatima University (_2023-2024_)								       		
