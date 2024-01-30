@@ -19,21 +19,6 @@
 - Improving my characteristics and promoting the best customer or client service
 
 
-## Projects
-### Clinic @ Our Lady of Fatima Quezon City 
-[www.universityclinicqc.com](https://universityclinicqc.com/account/?next=/)
-
-We seek to enhance the accuracy and efficiency of clinical decision-making
-processes, forecasting the overall management of healthcare data and improving patient
-outcomes. The proposed web-based clinical system can improve healthcare data
-management by utilizing machine learning and EHRs, which will help the university clinic.
-By implementing the system, that can forecast the health records of college students,
-identifying those at higher risk of clinical admissions within a certain period after dis-
-charge. This proactive approach allows for early intervention, personalized care, and
-targeted preventive measures, ultimately leading to improved student health outcomes,
-reduced healthcare costs, and increased efficiency in healthcare delivery within the uni-
-versity campus.
-
 ![EEG Band Discovery](/assets/img/neutral.jpg)
 
 ### Using The Artificial Intellegence(AI) and Machine Learning(ML)
