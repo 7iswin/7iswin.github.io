@@ -1,6 +1,6 @@
 # 7iswin.github.io
 
-#### Technical Skills: Python, SQL, Javascripts, Django, HTML, CSS,Rest API,
+#### Technical Skills: Python, SQL, Javascripts, Django, HTML, CSS,Rest API,Next JS
 
 ## Personal Info 
 - Date Of Birth: April,24,2000
