@@ -17,6 +17,11 @@
 **StaffwiseSolution INC- Sales Area Maintenance @ 7 Eleven(_2year Experience_)**
 - It was my first job, and I know that working is exciting and memorable, therefore I enjoy working with my coworkers.
 - Improving my characteristics and promoting the best customer or client service
+**EC Solution and Interprises **
+- PHP
+- Python
+- Node JS
+
 
 
 ![EEG Band Discovery](/assets/img/neutral.jpg)
